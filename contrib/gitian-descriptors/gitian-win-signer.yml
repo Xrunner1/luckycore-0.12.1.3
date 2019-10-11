@@ -9,7 +9,7 @@ packages:
 - "autoconf"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
-- "url": "https://github.com/luckybitcoin/luckybit-detached-sigs.git"
+- "url": "https://github.com/xrunner1/luckycore-0.12.1.3-detached-sigs.git"
   "dir": "signature"
 files:
 - "osslsigncode-1.7.1.tar.gz"
